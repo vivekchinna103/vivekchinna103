@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vivekchinna103
-- 👀 I’m interested in frontend development,software development
+- 👀 I’m interested in frontend data science,data analytics,software development
 - 🌱 I’m currently learning cloud computing
 - 💞️ I’m looking to collaborate on Buliding technolgies
 - 📫 How to reach me gowrivivek07@gmail.com
